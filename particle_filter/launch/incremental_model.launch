@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+<node pkg="rviz" type="rviz" name="rviz" args="-d $(find particle_filter)/rviz/catheter_sim.rviz"/>
+<node pkg="particle_filter" type="test_main3" name="test_main3"/>
+<node pkg="catheter_sim" type="catheter_sim" name="catheter_sim"/>
+<node pkg="catheter_sim" type="amps_auto_emitter" name="amps_auto_emitter"/>
+</launch>
