@@ -48,3 +48,8 @@
 <p>roslaunch particle_filter incremental_model.launch --screen</p>
 <p>Or:</p>
 <p>roslaunch particle_filter incremental_model2.launch --screen</p>
+
+## Youtube
+`Tracking with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE`
+`Tracking without know input: https://www.youtube.com/watch?v=E5JJJG2jPQs`
+`Tracking with incremental motion model: https://www.youtube.com/watch?v=vmrypCFaFNg`
