@@ -50,6 +50,6 @@
 <p>roslaunch particle_filter incremental_model2.launch --screen</p>
 
 ## Youtube
-<p>Tracking with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE</p>
-<p>Tracking without know input: https://www.youtube.com/watch?v=E5JJJG2jPQs</p>
-<p>Tracking with incremental motion model: https://www.youtube.com/watch?v=vmrypCFaFNg</p>
+<p>locate catheter with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE</p>
+<p>locate catheter without known input: https://www.youtube.com/watch?v=E5JJJG2jPQs</p>
+<p>Tracking catheter with incremental motion model: https://www.youtube.com/watch?v=vmrypCFaFNg</p>
