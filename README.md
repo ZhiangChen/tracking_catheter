@@ -5,7 +5,7 @@
 ## Youtube
 <p>locate catheter with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE</p>
 <p>locate catheter without known input: https://www.youtube.com/watch?v=E5JJJG2jPQs</p>
-<p>**Tracking catheter with incremental motion model**: https://www.youtube.com/watch?v=vmrypCFaFNg</p>
+<p>__Tracking catheter with incremental motion model__: https://www.youtube.com/watch?v=vmrypCFaFNg</p>
 
 ## CatheterPose
 
