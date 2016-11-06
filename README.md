@@ -3,9 +3,9 @@
 <p>Particle filter is used to track the catheter.</p>
 
 ## Youtube
-<p>locate catheter with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE</p>
-<p>locate catheter without known input: https://www.youtube.com/watch?v=E5JJJG2jPQs</p>
-<p>__Tracking catheter with incremental motion model__: https://www.youtube.com/watch?v=vmrypCFaFNg</p>
+* locate catheter with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE
+* locate catheter without known input: https://www.youtube.com/watch?v=E5JJJG2jPQs
+* __Tracking catheter with incremental motion model__: https://www.youtube.com/watch?v=vmrypCFaFNg
 
 ## CatheterPose
 
