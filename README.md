@@ -2,6 +2,11 @@
 
 <p>Particle filter is used to track the catheter.</p>
 
+## Youtube
+<p>locate catheter with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE</p>
+<p>locate catheter without known input: https://www.youtube.com/watch?v=E5JJJG2jPQs</p>
+<p>Tracking catheter with incremental motion model: https://www.youtube.com/watch?v=vmrypCFaFNg</p>
+
 ## CatheterPose
 
 <p>A struct data type CatheterPose is defined in the header file, ParticleFilter.h. It contains three points (A, B, C) and one tangent vetor (t). It provides two functions and overloads three operators.</p> 
@@ -49,7 +54,4 @@
 <p>Or:</p>
 <p>roslaunch particle_filter incremental_model2.launch --screen</p>
 
-## Youtube
-<p>locate catheter with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE</p>
-<p>locate catheter without known input: https://www.youtube.com/watch?v=E5JJJG2jPQs</p>
-<p>Tracking catheter with incremental motion model: https://www.youtube.com/watch?v=vmrypCFaFNg</p>
+
