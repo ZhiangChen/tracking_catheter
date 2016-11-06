@@ -1,6 +1,5 @@
 # particle_filter
-
-<p>Particle filter is used to track the catheter.</p>
+Particle filter for tracking steerable catheter robot.
 
 ## Youtube
 * locate catheter with known input: https://www.youtube.com/watch?v=ox7m-5A8HFE
